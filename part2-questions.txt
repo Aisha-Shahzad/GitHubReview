@@ -16,5 +16,7 @@ done
 5f24d5127162bb87459e875db5461f086b1d5b5d
 
 5- Merge the subtract branch into the master and resolve any conflicts you get. Then push your changes to the remote.
+done
 
 6- Remember to save this file, add and commit it, then push again.
+done
