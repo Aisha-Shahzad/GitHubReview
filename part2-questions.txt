@@ -10,8 +10,10 @@ first commit - 7d0bca9e04514843e8422286c87f02fa86c8550c
 second commit - 41cc0f4d517ea80580f500e3e8925b4e9817df16 
 
 3- Push the changes you made on this branch to the remote.
+done
 
 4- Switch back to the master branch, fix the bug that you found above in a new commit and paste its ID below.
+5f24d5127162bb87459e875db5461f086b1d5b5d
 
 5- Merge the subtract branch into the master and resolve any conflicts you get. Then push your changes to the remote.
 
