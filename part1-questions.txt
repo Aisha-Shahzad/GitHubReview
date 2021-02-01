@@ -4,6 +4,9 @@ Answer the following, add your answer below each question:
 10
 
 2- How many branches does it have?
+There are 2 branches
+	1) master
+	2) part1
 
 2
 
@@ -13,3 +16,7 @@ Answer the following, add your answer below each question:
 
 4- How many lines of code were added between the second and the third commit?
 7
+Commit ID of the commit where author added styles is 02c421
+
+4- How many lines of code were added between the second and the third commit?
+The lines of code added between second(02c4) and third(c0e5) is 7.
